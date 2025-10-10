@@ -55,10 +55,41 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushcode12&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushcode12&theme=tokyonight" />
+</p>
+
+---
+
+### 🧮 Top Languages
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushcode12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 Developer Activity Metrics
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushcode12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushcode12&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushcode12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushcode12&theme=tokyonight" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushcode12&theme=tokyonight&utcOffset=5" />
+</p>
+
+---
+
+### 🌟 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushcode12&label=Profile%20Views&color=0e75b6&style=flat" alt="ayushcode12" />
 </p>
 
 ---
@@ -84,7 +115,10 @@
 
 ---
 
-### 📊 GitHub Activity Graph
+---
+
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushcode12&theme=tokyo-night" />
+  <img src="https://github.com/ayushcode12/ayushcode12/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
