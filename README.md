@@ -18,24 +18,29 @@
 
 ### 🧰 Tech & Tools  
 
-**🖥️ Backend:**  
+> Technologies and tools I use to build scalable full-stack web applications  
+
+<div align="center">
+
+### ⚙️ **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
 
-**💻 Frontend:**  
+### 💻 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**🗄️ Database:**  
+### 🗄️ **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**⚙️ Tools & DevOps:**  
+### 🚀 **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS(basic)](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS (Basic)](https://img.shields.io/badge/AWS%20(Basic)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+</div>
 
 ---
 
