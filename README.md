@@ -78,9 +78,8 @@
 
 ---
 
-### 🌟 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushcode12&label=Profile%20Views&color=0e75b6&style=flat" alt="ayushcode12" />
+  <img src="https://komarev.com/ghpvc/?username=ayushcode12&label=Profile%20Views&color=ff69b4&style=flat-square" alt="ayushcode12" />
 </p>
 
 ---
