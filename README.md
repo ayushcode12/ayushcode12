@@ -78,9 +78,13 @@
 
 ---
 
+### 🌟 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushcode12&label=Profile%20Views&color=ff69b4&style=flat-square" alt="ayushcode12" />
+  <a href="https://github.com/ayushcode12">
+    <img src="https://kom-readme-stats.vercel.app/api/pin/?username=ayushcode12&repo=ayushcode12&theme=radical&show_owner=true" alt="Profile Views" />
+  </a>
 </p>
+
 
 ---
 
