@@ -74,6 +74,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/ayushcode12/ayushcode12/blob/main/metrics.svg" alt="GitHub Metrics">
+</p>
+
+---
+
 ### 📈 GitHub Stats & Analytics
 
 <table align="center">
