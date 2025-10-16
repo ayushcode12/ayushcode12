@@ -82,7 +82,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ayushcode12&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats" width="440"/>
     </td>
     <td align="center" width="440">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushcode12&theme=tokyonight" alt="GitHub Streak" width="440"/>
+      <img src="https://streak-stats.demolab.com?user=ayushcode12&theme=tokyonight" alt="GitHub Streak" width="440"/>
     </td>
   </tr>
 </table>
