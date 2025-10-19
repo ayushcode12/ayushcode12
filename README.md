@@ -92,19 +92,18 @@
 
 ---
 
-### 📂 Featured Projects
+### 🧠 Featured Projects
 
-#### 🏦 [Bank Management System](https://github.com/ayushcode12/Bank-Management-System-Java)
-- Core Java console app with CSV-based persistence and SHA-256 password hashing.
+<br>
 
-#### 🧾 [Personal Finance Tracker](https://github.com/ayushcode12/personal-finance-tracker)
-- Expense tracking with local storage, chart visualization, and category filters.
-
-#### 👨‍💼 [Employee Management System](https://github.com/ayushcode12/employee-management)
-- Full-stack project using Spring Boot (backend) and React (frontend).
-
-#### 🔢 [Sorting Visualizer](https://github.com/ayushcode12/Sorting_Visualizer)
-- Visualizes sorting algorithms with HTML, CSS, and JavaScript.
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🛍️ [**spring-ecom**](https://github.com/ayushcode12/spring-ecom) | A simple e-commerce backend using **Spring Boot** and **PostgreSQL**. Implements REST APIs for product, cart, and order management. | `Java` · `Spring Boot` · `PostgreSQL` |
+| 💸 [**personal-finance-tracker**](https://github.com/ayushcode12/personal-finance-tracker) | Personal finance tracker built with **HTML**, **CSS**, and **JavaScript** for managing transactions, categories & viewing history with clean UI. | `HTML` · `CSS` · `JavaScript` |
+| 👨‍💼 [**employee-management**](https://github.com/ayushcode12/employee-management) | Full-stack Employee Management System handling CRUD operations and authentication. | `Java` · `Spring Boot` · `MySQL` |
+| 🎬 [**youtube-clone**](https://github.com/ayushcode12/youtube-clone) | Frontend clone of YouTube built using **HTML** and **CSS**, mimicking YouTube’s layout and responsiveness. | `HTML` · `CSS` |
+| 🏦 [**Bank-Management-System-Java**](https://github.com/ayushcode12/Bank-Management-System-Java) | Core Java-based system for bank operations like deposits, withdrawals, and balance tracking. | `Core Java` |
+| 📊 [**Sorting_Visualizer**](https://github.com/ayushcode12/Sorting_Visualizer) | Interactive sorting algorithm visualizer built with **JavaScript** for educational purposes. | `JavaScript` · `HTML` · `CSS` |
 
 ---
 
@@ -187,8 +186,15 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/ayushjain-dev/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://github.com/ayushcode12" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://www.linkedin.com/in/ayushjain-dev/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/ayushcode12" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="mailto:ayushjain8477@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
