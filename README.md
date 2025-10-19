@@ -30,30 +30,57 @@
 
 ---
 
-### 🧰 Tech & Tools  
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!;💻+From+Logic+to+Interface" alt="Typing Animation" />
+</h2>
 
-> Technologies and tools I use to build scalable full-stack web applications  
+### 🧰 Tech Stack  
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,tailwind,js,html,css,mysql,postgres,git,docker,aws,vscode,idea&theme=dark" />
+</p>
 
-### ⚙️ **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
+---
 
-### 💻 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div style="border-left: 3px solid #3b82f6; padding-left: 20px; margin-left: 10px;">
 
-### 🗄️ **Database**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+#### ⚙️ Backend Development
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2395B46A.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23FF6F00.svg?style=for-the-badge)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23005571.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-%23232F3E.svg?style=for-the-badge)
 
-### 🚀 **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS (Basic)](https://img.shields.io/badge/AWS%20(Basic)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
+
+#### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+#### 🗄️ Database & Storage
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge)
+![Hibernate ORM](https://img.shields.io/badge/Hibernate%20ORM-%2395B46A.svg?style=for-the-badge)
+
+---
+
+#### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
@@ -62,15 +89,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
 </p>
-
----
-
-### 🛠️ Tech Stack
-**Languages:** Java, JavaScript, HTML, CSS  
-**Backend:** Spring Boot, Spring Data JPA, Spring Security, RESTful APIs  
-**Frontend:** React, Tailwind CSS  
-**Database:** MySQL, PostgreSQL  
-**Tools:** Git, Maven, Docker, VS Code, IntelliJ IDEA  
 
 ---
 
