@@ -187,13 +187,13 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushjain-dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/ayushcode12" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:ayushjain8477@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
