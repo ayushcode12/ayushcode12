@@ -22,10 +22,6 @@
 - 💬 Ask me about **Java, Spring Boot, React, and DSA**  
 - 📫 How to reach me: **ayushjain8477@gmail.com**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-Spring%20AI%20%26%20React%20-blueviolet?style=for-the-badge&logo=readme&logoColor=white&labelColor=black&color=00FFFF&cacheSeconds=3600" />
-</p>
-
 ---
 
 <p align="center">
