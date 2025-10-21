@@ -13,7 +13,16 @@
 
 ---
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+About+Me;💻+Crafting+Code+That+Matters;🌱+Always+Learning,+Always+Building" alt="About Me Animation" />
+</h2>
+
 - 🎓 Final-year B.Tech CSE student at **Raja Balwant Singh Engineering Technical Campus, Agra**  
 - 💻 Specializing in **Java Spring Boot and React full-stack development**  
 - 🔐 Building **RESTful APIs, microservices, and secure apps** using Spring Security, JWT, and OAuth2  
