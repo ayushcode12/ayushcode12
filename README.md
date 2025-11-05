@@ -202,8 +202,8 @@
   <a href="https://github.com/ayushcode12" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:ayushjain8477@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:ayushjain8477@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
 </p>
 
