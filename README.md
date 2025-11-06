@@ -204,6 +204,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushjain8477@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/626691153219289098">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
 
