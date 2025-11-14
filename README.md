@@ -124,16 +124,21 @@
 
 ### 📈 GitHub Stats & Analytics
 
-<table align="center">
-  <tr>
-    <td align="center" width="440">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayushcode12&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats" width="440"/>
-    </td>
-    <td align="center" width="440">
-      <img src="https://streak-stats.vercel.app?user=ayushcode12&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="440"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ayushcode12&show_icons=true&theme=tokyonight" 
+    alt="Ayush's GitHub stats" 
+    width="600"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.vercel.app?user=ayushcode12&theme=tokyonight&border_radius=10" 
+    alt="GitHub Streak" 
+    width="600"
+  />
+</p>
 
 
 ---
