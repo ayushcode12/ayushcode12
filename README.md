@@ -101,20 +101,17 @@
 
 ---
 
-### 🧠 Featured Projects
-
-<br>
+## 🧠 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-
 | ✅ [**todo-app-springboot**](https://github.com/ayushcode12/todo-app-springboot) | To-Do web application built with Spring Boot for managing tasks with server-side rendering. | `Java` · `Spring Boot` · `Thymeleaf` · `MySQL` |
-| 🛍️ [**spring-ecom**](https://github.com/ayushcode12/spring-ecom) | A simple e-commerce backend using **Spring Boot** and **PostgreSQL**. Implements REST APIs for product, cart, and order management. | `Java` · `Spring Boot` · `PostgreSQL` |
-| 💸 [**personal-finance-tracker**](https://github.com/ayushcode12/personal-finance-tracker) | Personal finance tracker built with **HTML**, **CSS**, and **JavaScript** for managing transactions, categories & viewing history with clean UI. | `HTML` · `CSS` · `JavaScript` |
+| 🛍️ [**spring-ecom**](https://github.com/ayushcode12/spring-ecom) | A simple e-commerce backend using Spring Boot and PostgreSQL. Implements REST APIs for product, cart, and order management. | `Java` · `Spring Boot` · `PostgreSQL` |
+| 💸 [**personal-finance-tracker**](https://github.com/ayushcode12/personal-finance-tracker) | Personal finance tracker built with HTML, CSS, and JavaScript for managing transactions, categories & viewing history with clean UI. | `HTML` · `CSS` · `JavaScript` |
 | 👨‍💼 [**employee-management**](https://github.com/ayushcode12/employee-management) | Full-stack Employee Management System handling CRUD operations and authentication. | `Java` · `Spring Boot` · `MySQL` |
-| 🎬 [**youtube-clone**](https://github.com/ayushcode12/youtube-clone) | Frontend clone of YouTube built using **HTML** and **CSS**, mimicking YouTube’s layout and responsiveness. | `HTML` · `CSS` |
+| 🎬 [**youtube-clone**](https://github.com/ayushcode12/youtube-clone) | Frontend clone of YouTube built using HTML and CSS, mimicking YouTube’s layout and responsiveness. | `HTML` · `CSS` |
 | 🏦 [**Bank-Management-System-Java**](https://github.com/ayushcode12/Bank-Management-System-Java) | Core Java-based system for bank operations like deposits, withdrawals, and balance tracking. | `Core Java` |
-| 📊 [**Sorting_Visualizer**](https://github.com/ayushcode12/Sorting_Visualizer) | Interactive sorting algorithm visualizer built with **JavaScript** for educational purposes. | `JavaScript` · `HTML` · `CSS` |
+| 📊 [**Sorting_Visualizer**](https://github.com/ayushcode12/Sorting_Visualizer) | Interactive sorting algorithm visualizer built with JavaScript for educational purposes. | `JavaScript` · `HTML` · `CSS` |
 
 ---
 
