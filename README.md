@@ -114,6 +114,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
+| 🍽️ [**Foodies – Online Food Ordering Platform**](https://github.com/ayushcode12/Foodies_Backend) | Full-stack food ordering platform with secure JWT authentication, role-based access, cart & order workflows. Frontend built with React: https://github.com/ayushcode12/Foodies-Frontend | `Java` · `Spring Boot` · `Spring Security` · `JWT` · `REST APIs` · `React` |
 | ✅ [**todo-app-springboot**](https://github.com/ayushcode12/todo-app-springboot) | To-Do web application built with Spring Boot for managing tasks with server-side rendering. | `Java` · `Spring Boot` · `Thymeleaf` · `MySQL` |
 | 🛍️ [**spring-ecom**](https://github.com/ayushcode12/spring-ecom) | A simple e-commerce backend using Spring Boot and PostgreSQL. Implements REST APIs for product, cart, and order management. | `Java` · `Spring Boot` · `PostgreSQL` |
 | 💸 [**personal-finance-tracker**](https://github.com/ayushcode12/personal-finance-tracker) | Personal finance tracker built with HTML, CSS, and JavaScript for managing transactions, categories & viewing history with clean UI. | `HTML` · `CSS` · `JavaScript` |
