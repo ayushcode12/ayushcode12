@@ -1,55 +1,61 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=12000&color=FFB400&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ayush+Jain" alt="Rainbow Text Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=600&pause=450&color=C77DFF&center=true&vCenter=true&width=900&lines=Hi;Hi+👋;Hi+👋,+I%E2%80%99m;Hi+👋,+I%E2%80%99m+Ayush;Hi+👋,+I%E2%80%99m+Ayush+Jain" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://ayushjain-personal-portfolio.netlify.app" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Click%20to%20Visit-2563eb?style=for-the-badge"
+      src="https://img.shields.io/badge/PORTFOLIO-ENTER%20SITE-C77DFF?style=for-the-badge&logo=google-chrome&logoColor=000000"
       alt="Live Portfolio"
-    />
-  </a>
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=007BFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+DSA+Enthusiast;Code.+Learn.+Build.+Repeat.&type=mono&repeat=true" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=700&pause=900&color=C77DFF&center=true&vCenter=true&width=950&lines=Initializing+Developer+Profile...;Role:+Java+Full+Stack+Developer;Stack:+Spring+Boot+%7C+React+%7C+DSA;Status:+Code.+Learn.+Build.+Repeat." alt="Retro Boot Log" />
 </p>
 
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%" />
+  <img src="https://github.com/ayushcode12/ayushcode12/blob/main/Coding%20-%20Pixel%20Jeff.gif?raw=true" width="90%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0b0014,100:c77dff&section=footer" />
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+About+Me;💻+Crafting+Code+That+Matters;🌱+Always+Learning,+Always+Building" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=600&pause=800&color=C77DFF&center=true&vCenter=true&width=900&lines=ABOUT+ME;Crafting+Code+That+Matters;Always+Learning.+Always+Building." alt="About Me Retro Animation" />
 </h2>
 
-- 🎓 Final-year B.Tech CSE student at **Raja Balwant Singh Engineering Technical Campus, Agra**  
-- 💻 Specializing in **Java Spring Boot and React full-stack development**  
-- 🔐 Building **RESTful APIs, microservices, and secure apps** using Spring Security, JWT, and OAuth2  
-- 🧠 Currently solving DSA problems daily using **Striver’s Sheet**  
-- 🌱 Learning advanced **Spring Boot + React integration** and **System Design Basics**  
-- 💬 Ask me about **Java, Spring Boot, React, and DSA**  
-- 📫 How to reach me: **ayushjain8477@gmail.com**
+[PROFILE_INITIALIZED]
 
----
+EDUCATION  :: Final-year B.Tech CSE
+INSTITUTE  :: Raja Balwant Singh Engineering Technical Campus, Agra
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+ROLE       :: Java Full Stack Developer
+STACK      :: Spring Boot | React
+
+FOCUS      :: RESTful APIs, Microservices, Secure Applications
+SECURITY   :: Spring Security | JWT | OAuth2
+
+PRACTICE   :: Daily DSA using Striver’s Sheet
+LEARNING   :: Spring Boot + React Integration
+             System Design Basics
+
+DISCUSS    :: Java, Spring Boot, React, DSA
+CONTACT    :: ayushjain8477@gmail.com
+
+[STATUS]   :: Code. Learn. Build. Repeat.
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!;💻+From+Logic+to+Interface" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=700&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=TECH+STACK;Explor+My+Technology+Stack" alt="Retro Tech Stack Animation" />
 </h2>
 
 ### 🧰 Tech Stack  
@@ -104,13 +110,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
-
----
-
-## 🧠 Featured Projects
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=700&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=FEATURED+PROJECTS;MODULE+LOADED"
+    alt="Featured Projects Retro Header"
+  />
+</h2>
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
@@ -123,11 +128,6 @@
 | 🏦 [**Bank-Management-System-Java**](https://github.com/ayushcode12/Bank-Management-System-Java) | Core Java-based system for bank operations like deposits, withdrawals, and balance tracking. | `Core Java` |
 | 📊 [**Sorting_Visualizer**](https://github.com/ayushcode12/Sorting_Visualizer) | Interactive sorting algorithm visualizer built with JavaScript for educational purposes. | `JavaScript` · `HTML` · `CSS` |
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
 
 ---
 
@@ -162,12 +162,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushcode12&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
@@ -188,12 +182,6 @@
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/ayushcode12/ayushcode12/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
 </p>
 
 ---
@@ -223,10 +211,13 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/626691153219289098">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+        <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0b0014,100:c77dff&section=footer" />
+</p>
 
