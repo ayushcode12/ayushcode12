@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ayushjain-personal-portfolio.netlify.app" target="_blank">
-    <img 
+    <img
       src="https://img.shields.io/badge/PORTFOLIO-ENTER%20SITE-C77DFF?style=for-the-badge&logo=google-chrome&logoColor=000000"
       alt="Live Portfolio"
     />
