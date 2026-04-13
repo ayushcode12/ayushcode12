@@ -119,6 +119,7 @@ CONTACT    :: ayushjain8477@gmail.com
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
+| 🧵 [**Urban Threads – Full-Stack E-commerce Platform**](https://github.com/ayushcode12/ecommerce-fullstack) | Full-stack fashion e-commerce platform with JWT auth (access + refresh), role-based User/Admin flows, product catalog, cart, wishlist, reviews/ratings, address management, COD + Razorpay test checkout, Cloudinary image handling, and admin analytics dashboard. | `Java` · `Spring Boot` · `Spring Security` · `JWT` · `PostgreSQL` · `REST APIs` · `React` · `Vite` · `Tailwind CSS` · `Razorpay` · `Cloudinary` |
 | 🍽️ [**Foodies – Online Food Ordering Platform**](https://github.com/ayushcode12/Foodies_Backend) | Full-stack food ordering platform with secure JWT authentication, role-based access, cart & order workflows. Frontend built with React: https://github.com/ayushcode12/Foodies-Frontend | `Java` · `Spring Boot` · `Spring Security` · `JWT` · `REST APIs` · `React` |
 | ✅ [**todo-app-springboot**](https://github.com/ayushcode12/todo-app-springboot) | To-Do web application built with Spring Boot for managing tasks with server-side rendering. | `Java` · `Spring Boot` · `Thymeleaf` · `MySQL` |
 | 🛍️ [**spring-ecom**](https://github.com/ayushcode12/spring-ecom) | A simple e-commerce backend using Spring Boot and PostgreSQL. Implements REST APIs for product, cart, and order management. | `Java` · `Spring Boot` · `PostgreSQL` |
@@ -127,7 +128,6 @@ CONTACT    :: ayushjain8477@gmail.com
 | 🎬 [**youtube-clone**](https://github.com/ayushcode12/youtube-clone) | Frontend clone of YouTube built using HTML and CSS, mimicking YouTube’s layout and responsiveness. | `HTML` · `CSS` |
 | 🏦 [**Bank-Management-System-Java**](https://github.com/ayushcode12/Bank-Management-System-Java) | Core Java-based system for bank operations like deposits, withdrawals, and balance tracking. | `Core Java` |
 | 📊 [**Sorting_Visualizer**](https://github.com/ayushcode12/Sorting_Visualizer) | Interactive sorting algorithm visualizer built with JavaScript for educational purposes. | `JavaScript` · `HTML` · `CSS` |
-
 
 ---
 
