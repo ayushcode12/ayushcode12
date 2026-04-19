@@ -69,7 +69,7 @@ CONTACT    :: ayushjain8477@gmail.com
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,aws,postgres,react,js,html,css,git,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,postgres,mysql,mongodb,git,maven,docker,aws,vscode,idea&theme=dark" />
 </p>
 
 ---
