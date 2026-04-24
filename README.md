@@ -23,36 +23,40 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=600&pause=800&color=C77DFF&center=true&vCenter=true&width=900&lines=ABOUT+ME;Crafting+Code+That+Matters;Always+Learning.+Always+Building." alt="About Me Retro Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=600&pause=800&color=C77DFF&center=true&vCenter=true&width=900&lines=ABOUT+ME;Crafting+Code+That+Matters;Always+Learning.+Always+Building." />
 </h2>
 
-[PROFILE_INITIALIZED]
+<h3>🧠 About Me</h3>
 
-EDUCATION  :: Final-year B.Tech CSE
-INSTITUTE  :: Raja Balwant Singh Engineering Technical Campus, Agra
+<p>
+🚀 Final-year B.Tech CSE student focused on building <b>scalable backend systems</b> and <b>secure full-stack applications</b>.
+</p>
 
-ROLE       :: Java Full Stack Developer
-STACK      :: Spring Boot | React
+<p>
+💻 Specializing in <b>Java + Spring Boot</b> and <b>React</b>, with emphasis on clean architecture and performance.
+</p>
 
-FOCUS      :: RESTful APIs, Microservices, Secure Applications
-SECURITY   :: Spring Security | JWT | OAuth2
+<p>
+🔐 Experienced in <b>Spring Security, JWT, and OAuth2</b> for secure APIs.
+</p>
 
-PRACTICE   :: Daily DSA using Striver’s Sheet
-LEARNING   :: Spring Boot + React Integration
-             System Design Basics
+<p>
+🧩 Practicing <b>DSA (Striver’s Sheet)</b> and exploring <b>System Design</b>.
+</p>
 
-DISCUSS    :: Java, Spring Boot, React, DSA
-CONTACT    :: ayushjain8477@gmail.com
-
-[STATUS]   :: Code. Learn. Build. Repeat.
+<p>
+⚡ Passionate about solving real-world problems with efficient solutions.
+</p>
 
 ---
 
-## 🚀 Currently Building
+<h3>🚀 Currently Building</h3>
 
-- 🧠 Dev Battle – Gamified coding platform where developers compete by solving problems and get evaluated on performance and improvements  
-- ⚙️ Exploring Microservices Architecture & API Gateway  
-- 📦 Learning Docker & improving backend scalability  
+<ul>
+  <li>🧠 Dev Battle (Gamified coding platform)</li>
+  <li>⚙️ Microservices Architecture & API Gateway</li>
+  <li>📦 Docker & backend scalability</li>
+</ul>
 
 ---
 
@@ -61,6 +65,17 @@ CONTACT    :: ayushjain8477@gmail.com
 - Designing scalable backend systems  
 - Writing clean and maintainable APIs  
 - Understanding system design fundamentals  
+
+---
+
+<h3>💼 Why Me?</h3>
+
+<ul>
+  <li>Strong DSA foundation</li>
+  <li>Real-world full-stack projects</li>
+  <li>Focus on scalability & security</li>
+  <li>Continuous learning mindset</li>
+</ul>
 
 ---
 
