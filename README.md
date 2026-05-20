@@ -71,10 +71,11 @@
 <h3>💼 Why Me?</h3>
 
 <ul>
-  <li>Strong DSA foundation</li>
-  <li>Real-world full-stack projects</li>
-  <li>Focus on scalability & security</li>
-  <li>Continuous learning mindset</li>
+  <li>Built 3 deployed full-stack apps — not just tutorials</li>
+  <li>Integrated real payment gateway (Razorpay) as a fresher</li>
+  <li>JWT + RBAC security implemented from scratch</li>
+  <li>200+ DSA problems solved on LeetCode/GFG</li>
+  <li>Immediate joiner | Open to PAN India & Remote</li>
 </ul>
 
 ---
