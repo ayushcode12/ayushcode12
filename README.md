@@ -90,7 +90,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=700&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=FEATURED+PROJECTS;MODULE+LOADED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=700&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=FEATURED+PROJECTS" />
 </h2>
 
 <table>
@@ -100,57 +100,33 @@
 ### 🧵 <strong>Urban Threads</strong>  
 <sub>🔗 https://github.com/ayushcode12/ecommerce-fullstack</sub>  
 
-Full-stack e-commerce platform solving real-world shopping workflows with secure authentication, seamless checkout, and scalable backend architecture.  
+Production-ready full-stack e-commerce platform with JWT authentication, Razorpay integration, RBAC, admin dashboard, and 25+ REST APIs.  
 
-<sub><strong>Java</strong> · Spring Boot · React · PostgreSQL · Tailwind · Vite</sub>
+<sub><strong>Java</strong> · Spring Boot · React · PostgreSQL · JWT · Razorpay</sub>
 
 </td>
 
 <td width="50%">
 
+### ♻️ <strong>EcoBin</strong>  
+<sub>🔗 https://github.com/ayushcode12/Ecobin_Project</sub>  
+
+AI-powered waste management platform for waste classification, eco-tracking, and sustainable habit monitoring.  
+
+<sub><strong>Java</strong> · Spring Boot · React · PostgreSQL · AI Integration</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
 ### 🍽️ <strong>Foodies</strong>  
 <sub>🔗 https://github.com/ayushcode12/Foodies_Backend</sub>  
 
-Food ordering platform enabling smooth ordering workflows with secure authentication and role-based access.  
+Full-stack food ordering platform with secure authentication and REST API-driven workflows.  
 
 <sub><strong>Java</strong> · Spring Boot · React · REST APIs</sub>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ✅ <strong>todo-app-springboot</strong>  
-<sub>🔗 https://github.com/ayushcode12/todo-app-springboot</sub>  
-
-Task management system with server-side rendering and structured backend design.  
-
-<sub><strong>Java</strong> · Spring Boot · Thymeleaf · MySQL</sub>
-
-</td>
-
-<td>
-
-### 🛍️ <strong>spring-ecom</strong>  
-<sub>🔗 https://github.com/ayushcode12/spring-ecom</sub>  
-
-Backend system for handling e-commerce workflows via REST APIs.  
-
-<sub><strong>Java</strong> · Spring Boot · PostgreSQL</sub>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💸 <strong>personal-finance-tracker</strong>  
-<sub>🔗 https://github.com/ayushcode12/personal-finance-tracker</sub>  
-
-Frontend application for tracking personal finances with intuitive UI.  
-
-<sub><strong>HTML</strong> · CSS · JavaScript</sub>
 
 </td>
 
@@ -159,52 +135,24 @@ Frontend application for tracking personal finances with intuitive UI.
 ### 👨‍💼 <strong>employee-management</strong>  
 <sub>🔗 https://github.com/ayushcode12/employee-management</sub>  
 
-Full-stack system for managing employee records and operations.  
+Full-stack employee management system supporting CRUD operations and dynamic frontend integration.  
 
-<sub><strong>Java</strong> · Spring Boot · MySQL</sub>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎬 <strong>youtube-clone</strong>  
-<sub>🔗 https://github.com/ayushcode12/youtube-clone</sub>  
-
-Responsive UI clone replicating YouTube layout.  
-
-<sub><strong>HTML</strong> · CSS</sub>
+<sub><strong>Java</strong> · Spring Boot · React · MySQL</sub>
 
 </td>
-
-<td>
-
-### 🏦 <strong>Bank Management System</strong>  
-<sub>🔗 https://github.com/ayushcode12/Bank-Management-System-Java</sub>  
-
-Core Java application handling banking operations.  
-
-<sub><strong>Core Java</strong></sub>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📊 <strong>Sorting Visualizer</strong>  
-<sub>🔗 https://github.com/ayushcode12/Sorting_Visualizer</sub>  
-
-Interactive tool for visualizing sorting algorithms.  
-
-<sub><strong>JavaScript</strong> · HTML · CSS</sub>
-
-</td>
-
-<td></td>
 </tr>
 </table>
+
+---
+
+## 🧩 Other Projects
+
+- 📦 [todo-app-springboot](https://github.com/ayushcode12/todo-app-springboot) — Java, Spring Boot, Thymeleaf, MySQL
+- 🛍️ [spring-ecom](https://github.com/ayushcode12/spring-ecom) — Spring Boot, PostgreSQL, REST APIs
+- 💸 [personal-finance-tracker](https://github.com/ayushcode12/personal-finance-tracker) — HTML, CSS, JavaScript
+- 🎬 [youtube-clone](https://github.com/ayushcode12/youtube-clone) — HTML, CSS
+- 🏦 [Bank Management System](https://github.com/ayushcode12/Bank-Management-System-Java) — Core Java
+- 📊 [Sorting Visualizer](https://github.com/ayushcode12/Sorting_Visualizer) — JavaScript, HTML, CSS
 
 ---
 
