@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://ayushjain-personal-portfolio.netlify.app" target="_blank">
+  <a href="https://ayushjain18-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-ENTER%20SITE-C77DFF?style=for-the-badge&logo=google-chrome&logoColor=000000"/>
   </a>
 </p>
