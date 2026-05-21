@@ -17,6 +17,14 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🟢_Status-Actively_Looking_for_Full--Time_Roles-22c55e?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Notice_Period-Immediate_Joiner-C77DFF?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Agra,_India_|_PAN_India_&_Remote-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0b0014,100:c77dff&section=footer" />
 </p>
 
@@ -26,37 +34,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=600&pause=800&color=C77DFF&center=true&vCenter=true&width=900&lines=ABOUT+ME;Crafting+Code+That+Matters;Always+Learning.+Always+Building." />
 </h2>
 
-<h3>🧠 About Me</h3>
+```java
+public class AyushJain {
 
-<p>
-🚀 Final-year B.Tech CSE student focused on building <b>scalable backend systems</b> and <b>secure full-stack applications</b>.
-</p>
+    String role        = "Java Full Stack Developer";
+    String education   = "B.Tech CSE — RBSE Campus, Agra (2022–2026)";
+    String status      = "Final Year | Immediate Joiner | Open to PAN India & Remote";
 
-<p>
-💻 Specializing in <b>Java + Spring Boot</b> and <b>React</b>, with emphasis on clean architecture and performance.
-</p>
+    String[] stack     = { "Spring Boot", "React", "PostgreSQL", "MongoDB", "MySQL" };
+    String[] security  = { "JWT", "RBAC", "Spring Security", "OAuth2" };
+    String[] deployed  = { "Urban Threads", "EcoBin", "Foodies", "EMS" };
 
-<p>
-🔐 Experienced in <b>Spring Security, JWT, and OAuth2</b> for secure APIs.
-</p>
-
-<p>
-🧩 Practicing <b>DSA (Striver’s Sheet)</b> and exploring <b>System Design</b>.
-</p>
-
-<p>
-⚡ Passionate about solving real-world problems with efficient solutions.
-</p>
+    String superpower  = "Building production-grade apps with real payment gateways as a fresher";
+    String currentFocus = "Microservices Architecture + System Design + DSA (Striver's Sheet)";
+    String dsaSolved   = "200+ problems on LeetCode & GeeksforGeeks";
+}
+```
 
 ---
 
 <h3>🚀 Currently Building</h3>
 
-<ul>
-  <li>🧠 Dev Battle (Gamified coding platform)</li>
-  <li>⚙️ Microservices Architecture & API Gateway</li>
-  <li>📦 Docker & backend scalability</li>
-</ul>
+| Project | Status | ETA |
+|---|---|---|
+| 🧠 **Dev Battle** — Gamified competitive coding platform | 🔄 In Progress | Jun 2026 |
+| ⚙️ **Microservices refactor** of Urban Threads with API Gateway | 🔄 In Progress | Jul 2026 |
+| 📦 **Dockerized deployment** pipeline with CI/CD | 🔄 In Progress | Jun 2026 |
 
 ---
 
@@ -70,13 +73,17 @@
 
 <h3>💼 Why Me?</h3>
 
-<ul>
-  <li>Built 3 deployed full-stack apps — not just tutorials</li>
-  <li>Integrated real payment gateway (Razorpay) as a fresher</li>
-  <li>JWT + RBAC security implemented from scratch</li>
-  <li>200+ DSA problems solved on LeetCode/GFG</li>
-  <li>Immediate joiner | Open to PAN India & Remote</li>
-</ul>
+> Most freshers build tutorials. I build and **deploy production-ready systems**.
+
+| What I Did | Impact |
+|---|---|
+| 🔐 JWT + RBAC + Spring Security from scratch | Enterprise-grade security on all APIs |
+| 💳 Razorpay payment verification integrated | Real transactional system, not mock data |
+| 🛒 Designed 25+ REST APIs for Urban Threads | Cart, wishlist, orders, admin — fully functional |
+| 📊 Admin dashboard managing 100+ orders | Pagination-optimized queries for performance |
+| ☁️ Cloudinary media pipeline | Production media management, not local storage |
+| 🚀 4 full-stack apps deployed on cloud | Live, accessible, working — right now |
+| 🧩 200+ DSA problems solved | Strong CS fundamentals for coding rounds |
 
 ---
 
@@ -88,6 +95,19 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,postgres,mysql,mongodb,git,maven,docker,aws,vscode,idea&theme=dark" />
 </p>
 
+<div align="center">
+
+| Layer | Technologies |
+|---|---|
+| **Backend** | Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs |
+| **Security** | JWT · RBAC · OAuth2 · OTP Auth |
+| **Frontend** | React · JavaScript · HTML5 · CSS3 · Tailwind CSS |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **DevOps & Cloud** | Docker · AWS · Git · Maven |
+| **Integrations** | Razorpay · Cloudinary · SLF4J |
+
+</div>
+
 ---
 
 <h2 align="center">
@@ -98,23 +118,38 @@
 <tr>
 <td width="50%">
 
-### 🧵 <strong>Urban Threads</strong>  
-<sub>🔗 https://github.com/ayushcode12/ecommerce-fullstack</sub>  
+### 🧵 **Urban Threads**
+<sub>🔗 <a href="https://github.com/ayushcode12/ecommerce-fullstack">GitHub</a> &nbsp;|&nbsp; 🔴 <a href="#">Live Demo</a></sub>
 
-Production-ready full-stack e-commerce platform with JWT authentication, Razorpay integration, RBAC, admin dashboard, and 25+ REST APIs.  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF)
 
-<sub><strong>Java</strong> · Spring Boot · React · PostgreSQL · JWT · Razorpay</sub>
+Production-ready full-stack e-commerce platform with JWT authentication, Razorpay integration, RBAC, admin dashboard, and 25+ REST APIs.
+
+- ⚙️ **25+ REST APIs** — product, cart, wishlist, order, user  
+- 🔐 **JWT + RBAC + OTP password reset** via Spring Security  
+- 💳 **Razorpay** payment verification end-to-end  
+- 📊 **Admin dashboard** — 100+ orders, paginated queries  
 
 </td>
 
 <td width="50%">
 
-### ♻️ <strong>EcoBin</strong>  
-<sub>🔗 https://github.com/ayushcode12/Ecobin_Project</sub>  
+### ♻️ **EcoBin**
+<sub>🔗 <a href="https://github.com/ayushcode12/Ecobin_Project">GitHub</a> &nbsp;|&nbsp; 🔴 <a href="#">Live Demo</a></sub>
 
-AI-powered waste management platform for waste classification, eco-tracking, and sustainable habit monitoring.  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-<sub><strong>Java</strong> · Spring Boot · React · PostgreSQL · AI Integration</sub>
+AI-powered waste management platform for waste classification, eco-tracking, and sustainable habit monitoring.
+
+- 🤖 **AI Integration** — intelligent waste classification  
+- 📊 **Eco-tracking dashboard** — habit monitoring & analytics  
+- 🔐 **Secure REST APIs** with Spring Boot backend  
 
 </td>
 </tr>
@@ -122,23 +157,36 @@ AI-powered waste management platform for waste classification, eco-tracking, and
 <tr>
 <td>
 
-### 🍽️ <strong>Foodies</strong>  
-<sub>🔗 https://github.com/ayushcode12/Foodies_Backend</sub>  
+### 🍽️ **Foodies**
+<sub>🔗 <a href="https://github.com/ayushcode12/Foodies_Backend">GitHub</a> &nbsp;|&nbsp; 🔴 <a href="#">Live Demo</a></sub>
 
-Full-stack food ordering platform with secure authentication and REST API-driven workflows.  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=3395FF)
 
-<sub><strong>Java</strong> · Spring Boot · React · REST APIs</sub>
+Full-stack food ordering platform with secure authentication and REST API-driven workflows.
+
+- 🍕 **8+ REST APIs** — menu, cart, user, order management  
+- 👥 **Dual-role system** — user & admin dashboards with RBAC  
+- 🚀 **Deployed** on Render (backend) + Netlify (frontend)  
 
 </td>
 
 <td>
 
-### 👨‍💼 <strong>employee-management</strong>  
-<sub>🔗 https://github.com/ayushcode12/employee-management</sub>  
+### 👨‍💼 **Employee Management System**
+<sub>🔗 <a href="https://github.com/ayushcode12/employee-management">GitHub</a></sub>
 
-Full-stack employee management system supporting CRUD operations and dynamic frontend integration.  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<sub><strong>Java</strong> · Spring Boot · React · MySQL</sub>
+Full-stack employee management system supporting CRUD operations and dynamic frontend integration.
+
+- 📋 **5+ REST APIs** — CRUD + search functionality  
+- 👥 Manages **100+ employee records** with optimized DB queries  
+- ⚛️ React frontend with dynamic data rendering  
 
 </td>
 </tr>
@@ -157,18 +205,25 @@ Full-stack employee management system supporting CRUD operations and dynamic fro
 
 ---
 
+## 💼 Internship Experience
+
+**Web Development Intern @ ROBONOX** &nbsp;|&nbsp; Jun 2025 – Jul 2025
+
+- Built **10+ reusable React UI components** improving responsiveness across 5+ browsers
+- Integrated **REST APIs** with React for dynamic data rendering and improved user interaction
+- Used **Git** for version control, feature tracking, and team collaboration
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushcode12&show_icons=true&theme=tokyonight" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushcode12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0014&title_color=c77dff&icon_color=c77dff&text_color=ffffff" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushcode12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0014&title_color=c77dff&text_color=ffffff" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=ayushcode12&theme=tokyonight" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushcode12&layout=compact&theme=tokyonight" width="600"/>
+  <img src="https://streak-stats.vercel.app?user=ayushcode12&theme=tokyonight&hide_border=true&background=0b0014&ring=c77dff&fire=c77dff&currStreakLabel=c77dff" width="60%"/>
 </p>
 
 ---
@@ -189,11 +244,12 @@ Full-stack employee management system supporting CRUD operations and dynamic fro
 
 ### 🧩 DSA Practice
 
-📘 Solving problems daily using Striver’s Sheet  
+📘 Solving problems daily using Striver's Sheet  
 👉 https://github.com/ayushcode12/DSA  
 
 - Focus on patterns & optimization  
 - Strong problem-solving foundation  
+- **200+ problems** solved on LeetCode & GeeksforGeeks  
 
 ---
 
@@ -210,6 +266,10 @@ Full-stack employee management system supporting CRUD operations and dynamic fro
   <a href="mailto:ayushjain8477@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=800&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Open+to+Full-Time+%7C+Immediate+Joiner+%7C+PAN+India+%26+Remote;Let%27s+build+something+production-ready+together." />
 </p>
 
 ---
