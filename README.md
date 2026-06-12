@@ -54,16 +54,6 @@ public class AyushJain {
 
 ---
 
-<h3>🚀 Currently Building</h3>
-
-| Project | Status | ETA |
-|---|---|---|
-| 🧠 **Dev Battle** — Gamified competitive coding platform | 🔄 In Progress | Jun 2026 |
-| ⚙️ **Microservices refactor** of Urban Threads with API Gateway | 🔄 In Progress | Jul 2026 |
-| 📦 **Dockerized deployment** pipeline with CI/CD | 🔄 In Progress | Jun 2026 |
-
----
-
 ## 🧠 Engineering Focus
 
 - Designing scalable backend systems
@@ -73,8 +63,6 @@ public class AyushJain {
 ---
 
 <h3>💼 Why Me?</h3>
-
-> Most freshers build tutorials. I build and **deploy production-ready systems**.
 
 | What I Did | Impact |
 |---|---|
